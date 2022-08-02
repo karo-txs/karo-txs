@@ -11,8 +11,8 @@
 - [pavo] - um compilador minimalista;
 - [e-ticket] - programa de gerenciamento de reservas e entretenimentos;
 - [spotify-graphs-search] - gerador de grafos a partir de relações existentes entre bandas/cantores; 
-- [softwarelab] - gerenciador de projetos com IA.
-
+- [softwarelab] - gerenciador de projetos com IA;
+- [sci_material] - repositório contendo os materiais utilizados para minhas pesquisas científicas.
 
 <h2 align="center">Publicações</h2>
 
@@ -25,3 +25,4 @@
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
    [softwarelab]: <https://github.com/MachineResearchGroup/SoftwareLab-API>
+   [sci_material]: <https://github.com/AFKaro/sci_material>

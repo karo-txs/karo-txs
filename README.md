@@ -6,7 +6,13 @@
 <a href="http://lattes.cnpq.br/2074137700305766"><img alt="Lattes" src="https://img.shields.io/badge/lattes-orange.svg"/></a>
 </p>
 
-<h2 align="center">Projetos</h2>
+
+
+<h2 align="center">:page_with_curl: Artigos e Relatórios Científicos</h2>
+
+- [notion] - página com informações e resultados dos meus artigos e relatórios.
+
+<h2 align="center">:pushpin: Projetos</h2>
 
 - [pavo] - um compilador minimalista;
 - [e-ticket] - programa de gerenciamento de reservas e entretenimentos;
@@ -14,12 +20,13 @@
 - [softwarelab] - gerenciador de projetos com IA;
 - [sci_material] - repositório contendo os materiais utilizados para minhas pesquisas científicas.
 
-<h2 align="center">Publicações</h2>
+<h2 align="center">:notebook_with_decorative_cover: Publicações</h2>
 
 - Algoritmos de Aprendizagem Supervisionada com Conjuntos de Dados Desbalanceados para Classificação de Requisitos Não-Funcionais [artigo-cbic]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+   [notion]: <https://deserted-pyramid-d34.notion.site/Scientific-Reports-cb4655a84da345609e18a2f2529a41bf>
    [pavo]: <https://github.com/AFKaro/Pavo>
    [e-ticket]: <https://github.com/AFKaro/e-ticket>
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>

@@ -7,11 +7,6 @@
 </p>
 
 
-
-<h2 align="center">:page_with_curl: Artigos e Relatórios Científicos</h2>
-
-- [notion] - página com informações e resultados dos meus artigos e relatórios.
-
 <h2 align="center">:pushpin: Projetos</h2>
 
 - [pavo] - um compilador minimalista;

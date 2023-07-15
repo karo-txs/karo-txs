@@ -9,6 +9,7 @@
 
 <h2 align="center">:pushpin: Projetos</h2>
 
+- [sardeep] - Detecting Humans in Aerial Images for Search and Rescue Operations with Deep Learning Algorithms
 - [pavo] - um compilador minimalista;
 - [e-ticket] - programa de gerenciamento de reservas e entretenimentos;
 - [spotify-graphs-search] - gerador de grafos a partir de relações existentes entre bandas/cantores; 
@@ -28,3 +29,4 @@
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
    [softwarelab]: <https://github.com/MachineResearchGroup/SoftwareLab-API>
    [sci_material]: <https://github.com/AFKaro/sci_material>
+   [sardeep]: <https://github.com/AFKaro/SARDeep>

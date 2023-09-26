@@ -7,26 +7,19 @@
 </p>
 
 
-<h2 align="center">:pushpin: Projetos</h2>
+<h2 align="center">:pushpin: Projects</h2>
 
 - [sardeep] - Detecting Humans in Aerial Images for Search and Rescue Operations with Deep Learning Algorithms
-- [pavo] - um compilador minimalista;
-- [e-ticket] - programa de gerenciamento de reservas e entretenimentos;
-- [spotify-graphs-search] - gerador de grafos a partir de relações existentes entre bandas/cantores; 
-- [softwarelab] - gerenciador de projetos com IA;
-- [sci_material] - repositório contendo os materiais utilizados para minhas pesquisas científicas.
+- [pavo] - a minimalist compiler;
+- [spotify-graphs-search] - graph generator based on relationships between bands/singers; 
 
-<h2 align="center">:notebook_with_decorative_cover: Publicações</h2>
+<h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
-- Algoritmos de Aprendizagem Supervisionada com Conjuntos de Dados Desbalanceados para Classificação de Requisitos Não-Funcionais [artigo-cbic]
+- Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [notion]: <https://deserted-pyramid-d34.notion.site/Scientific-Reports-cb4655a84da345609e18a2f2529a41bf>
    [pavo]: <https://github.com/AFKaro/Pavo>
-   [e-ticket]: <https://github.com/AFKaro/e-ticket>
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
-   [softwarelab]: <https://github.com/MachineResearchGroup/SoftwareLab-API>
-   [sci_material]: <https://github.com/AFKaro/sci_material>
    [sardeep]: <https://github.com/AFKaro/SARDeep>

@@ -15,7 +15,10 @@
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
+<h3 align="left">2021</h3>
 - Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
+
+<h3 align="left">2023</h3>
 - A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
 
 [//]: #
@@ -23,5 +26,4 @@
    [pavo]: <https://github.com/AFKaro/Pavo>
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
    [sardeep]: <https://github.com/AFKaro/SARDeep>
-
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>

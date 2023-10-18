@@ -15,13 +15,13 @@
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
-<h3 align="left">2021</h3>
+### 2021
 - Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
 
-<h3 align="left">2023</h3>
+### 2023
 - A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
 
-[//]: #
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [pavo]: <https://github.com/AFKaro/Pavo>
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>

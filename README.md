@@ -17,6 +17,7 @@
 
 - Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
 - A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
+
 [//]:
 
    [pavo]: <https://github.com/AFKaro/Pavo>

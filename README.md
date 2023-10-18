@@ -16,10 +16,11 @@
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
 - Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+- A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
+[//]:
 
    [pavo]: <https://github.com/AFKaro/Pavo>
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
-   [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
    [sardeep]: <https://github.com/AFKaro/SARDeep>
+
+   [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>

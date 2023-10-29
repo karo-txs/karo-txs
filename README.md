@@ -9,9 +9,10 @@
 
 <h2 align="center">:pushpin: Projects</h2>
 
-- [sardeep] - Detecting Humans in Aerial Images for Search and Rescue Operations with Deep Learning Algorithms
+- [SARDeep] - Detecting Humans in Aerial Images for Search and Rescue Operations with Deep Learning Algorithms
 - [pavo] - a minimalist compiler;
-- [spotify-graphs-search] - graph generator based on relationships between bands/singers; 
+- [spotify-graphs-search] - graph generator based on relationships between bands/singers;
+- [ViPAnn] - Video Pose Annotator with MediaPipe.
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
@@ -23,8 +24,9 @@
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [pavo]: <https://github.com/AFKaro/Pavo>
-   [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
-   [sardeep]: <https://github.com/AFKaro/SARDeep>
+   [pavo]: <https://github.com/karo-txs/Pavo>
+   [spotify-graphs-search]: <https://github.com/karo-txs/Spotify_Graphs_Search>
+   [SARDeep]: <https://github.com/karo-txs/SARDeep>
+   [ViPAnn]: <https://github.com/karo-txs/ViPAnn>
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
    [IEEE Access]: <https://ieeexplore.ieee.org/document/10287979>

@@ -27,3 +27,4 @@
    [spotify-graphs-search]: <https://github.com/AFKaro/Spotify_Graphs_Search>
    [sardeep]: <https://github.com/AFKaro/SARDeep>
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
+   [IEEE Access]: <https://ieeexplore.ieee.org/document/10287979>

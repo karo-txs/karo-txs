@@ -4,8 +4,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/karolayne-teixeira/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-blue.svg"/></a>
 <a href="http://lattes.cnpq.br/2074137700305766"><img alt="Lattes" src="https://img.shields.io/badge/lattes-orange.svg"/></a>
+<a href="https://rumbling-laborer-856.notion.site/Ka-IA-84b47ac3abd24dd3aef583c1ac3ce38f?pvs=4"><img alt="ka.ia" src="https://img.shields.io/badge/ka.ia-purple.svg"/></a>
 </p>
-
 
 <h2 align="center">:pushpin: Projects</h2>
 

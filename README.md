@@ -14,6 +14,7 @@
 - [ViPAnn] - Video Pose Annotator with MediaPipe.
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
+
 ### 2025
 - SingWriting For Handshape Recognition in Sign Language [code] [ICIP]
 

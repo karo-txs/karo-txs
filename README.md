@@ -14,12 +14,15 @@
 - [ViPAnn] - Video Pose Annotator with MediaPipe.
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
+### 2025
+- SingWriting For Handshape Recognition in Sign Language [code] [ICIP]
+
+### 2023
+- A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
 
 ### 2021
 - Supervised Learning Algorithms with Unbalanced Data Sets for Classifying Non-Functional Requirements [artigo-cbic]
 
-### 2023
-- A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -29,3 +32,4 @@
    [ViPAnn]: <https://github.com/karo-txs/ViPAnn>
    [artigo-cbic]: <https://sbic.org.br/wp-content/uploads/2021/09/pdf/CBIC_2021_paper_125.pdf>
    [IEEE Access]: <https://ieeexplore.ieee.org/document/10287979>
+   [code]: <https://github.com/karo-txs/signwriting-recognition>

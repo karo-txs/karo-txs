@@ -15,9 +15,6 @@
 
 <h2 align="center">:notebook_with_decorative_cover: Publications</h2>
 
-### 2025
-- SingWriting For Handshape Recognition in Sign Language [code] [ICIP]
-
 ### 2023
 - A Survey on Applications of Unmanned Aerial Vehicles using Machine Learning [IEEE Access]
 
